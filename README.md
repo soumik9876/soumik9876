@@ -49,3 +49,7 @@
 <a href="mailto:soumik9876@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/soumik9876/"><img src="https://img.shields.io/badge/-LeetCode-yellow?style=flat&logo=leetcode&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/soumik9876"><img src="https://img.shields.io/badge/-CodeForces-grey?style=flat&logo=codeforces&logoColor=white"/></a>
+</p>
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=soumik9876&theme=onedark" />
