@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for any related projects or opportunities.\
 ✉️ &nbsp;You can shoot me an email at soumik9876@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1-SHQCVWFDliw3j4tpbAoMRt6W1zYOi81/view?usp=sharing) for more details about me.
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1-0Jloya49K1ldQ3Z4JQssYRjl8BaSYTS/view?usp=sharing) for more details about me.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
